@@ -1,17 +1,12 @@
+# slack_chatbot
+
 ## Requirements
 * You need to get a [Slack API key](https://api.slack.com/apps?new_app=1).
-* You need to get a Bitly username and Bitly API key from [here](https://bitly.com/a/sign_in?rd=/a/oauth_apps)
+* You need to get a Bitly username and Bitly API key from [here](https://bitly.com/a/sign_in?rd=/a/oauth_apps).
 
   **NOTE: You will surely need [this article](https://www.geeksforgeeks.org/python-how-to-shorten-long-urls-using-bitly-api/) later.**
 * You need to get a [Youtube Data API](https://console.developers.google.com/apis/credentials?project=_) key.
-* You need to get a [Live football score](https://www.football-data.org/client/register) API key.
-* You need to create a [Custom Search Engine ID](https://cse.google.com/cse/create/new) by adding any or all of the following websites as per your choice:
-  * https://genius.com/
-  * http://www.lyricsted.com/
-  * http://www.lyricsbell.com/
-  * https://www.glamsham.com/
-  * http://www.lyricsoff.com/
-  * http://www.lyricsmint.com/
+* You need to create a [Custom Search Engine ID](https://cse.google.com/cse/create/new) by adding [Genius](https://genius.com).
 
   **NOTE: For more information, you may look at the [Lyrics Extractor](https://github.com/Techcatchers/PyLyrics-Extractor) Python Library.**
 * You need to get a [Google Custom Search JSON](https://developers.google.com/custom-search/v1/overview) API key.
@@ -31,7 +26,7 @@
 * Refactor README.md for `pipenv`
 * Strip out silly bits for boring work-centric use cases (i.e., KB article links, NLP)
 
-# SOURCE
+## SOURCE
 [PDF](https://drive.google.com/file/d/1b3v5K1x4ILq1xHJIY-bEu4ZQHXeVC7PP/view?usp=sharing) 
 
 [Video](https://youtu.be/McJr1AOhyj8) 
