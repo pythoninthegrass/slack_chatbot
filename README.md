@@ -1,16 +1,16 @@
 # slack_chatbot
 
 ## Requirements
-* You need to get a [Slack API key](https://api.slack.com/apps?new_app=1).
-* You need to get a Bitly username and Bitly API key from [here](https://bitly.com/a/sign_in?rd=/a/oauth_apps).
+* [Slack API key](https://api.slack.com/apps?new_app=1).
+* Bitly username and API key from [here](https://bitly.com/a/sign_in?rd=/a/oauth_apps).
 
-  **NOTE: You will surely need [this article](https://www.geeksforgeeks.org/python-how-to-shorten-long-urls-using-bitly-api/) later.**
-* You need to get a [Youtube Data API](https://console.developers.google.com/apis/credentials?project=_) key.
-* You need to create a [Custom Search Engine ID](https://cse.google.com/cse/create/new) by adding [Genius](https://genius.com).
+  **NOTE: [Useful article](https://www.geeksforgeeks.org/python-how-to-shorten-long-urls-using-bitly-api/) for later.**
+* [Youtube Data API](https://console.developers.google.com/apis/credentials?project=_) key.
+* [Custom Search Engine ID](https://cse.google.com/cse/create/new) then add [Genius](https://genius.com).
 
-  **NOTE: For more information, you may look at the [Lyrics Extractor](https://github.com/Techcatchers/PyLyrics-Extractor) Python Library.**
-* You need to get a [Google Custom Search JSON](https://developers.google.com/custom-search/v1/overview) API key.
-* You need to get a [News API](https://newsapi.org/) key.
+  **NOTE: For more information, see the [Lyrics Extractor](https://github.com/Techcatchers/PyLyrics-Extractor) Python Library.**
+* [Google Custom Search JSON](https://developers.google.com/custom-search/v1/overview) API key.
+* [News API](https://newsapi.org/) key.
 
 ## Usage
 1. Clone this repository and set up environment variables in a `.env` file stored in `/src` directory with all the required credentials.
