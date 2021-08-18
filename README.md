@@ -1,10 +1,3 @@
-# SOURCE
-[PDF](https://drive.google.com/file/d/1b3v5K1x4ILq1xHJIY-bEu4ZQHXeVC7PP/view?usp=sharing) 
-
-[Video](https://youtu.be/McJr1AOhyj8) 
-
-[Guide to building your own](https://hackernoon.com/a-guide-to-building-a-multi-featured-slackbot-with-python-73ea5394acc) 
-
 ## Requirements
 * You need to get a [Slack API key](https://api.slack.com/apps?new_app=1).
 * You need to get a Bitly username and Bitly API key from [here](https://bitly.com/a/sign_in?rd=/a/oauth_apps)
@@ -31,4 +24,16 @@
     pip install -r requirements.txt
     ```
 3. Run the program.
+
 **NOTE: If something doesn't work as expected even after following all the above mentioned steps then please raise an issue and we will try to fix the issue as soon as possible.**
+
+## TODO
+* Refactor README.md for `pipenv`
+* Strip out silly bits for boring work-centric use cases (i.e., KB article links, NLP)
+
+# SOURCE
+[PDF](https://drive.google.com/file/d/1b3v5K1x4ILq1xHJIY-bEu4ZQHXeVC7PP/view?usp=sharing) 
+
+[Video](https://youtu.be/McJr1AOhyj8) 
+
+[Guide to building your own](https://hackernoon.com/a-guide-to-building-a-multi-featured-slackbot-with-python-73ea5394acc) 
