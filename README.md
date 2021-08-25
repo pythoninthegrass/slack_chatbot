@@ -67,9 +67,11 @@
     * Add in config/DB
     * Assign to `#it` or other channels
 
-## SOURCE
-[PDF](https://drive.google.com/file/d/1b3v5K1x4ILq1xHJIY-bEu4ZQHXeVC7PP/view?usp=sharing) 
-
-[Video](https://youtu.be/McJr1AOhyj8) 
-
+## SOURCES
 [Guide to building your own](https://hackernoon.com/a-guide-to-building-a-multi-featured-slackbot-with-python-73ea5394acc) 
+
+[python-slack-sdk/flask_example.py at main · slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk/blob/main/integration_tests/samples/openid_connect/flask_example.py) 
+
+[Installation — Python Slack SDK](https://slack.dev/python-slack-sdk/installation/index.html) 
+
+[RTM Client — Python Slack SDK](https://slack.dev/python-slack-sdk/real_time_messaging.html#real-time-messaging-rtm) 
