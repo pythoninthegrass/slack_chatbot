@@ -14,6 +14,13 @@
 
 ## Usage
 * Clone this repository and set up environment variables in a `.env` file stored in `/src` directory with all the required credentials
+    * Fill in `.env` from [Slack API - Settings: Basic Information](https://api.slack.com/apps)
+    ```
+    # .env
+    API_KEY=
+    SLACK_CLIENT_ID=
+    SLACK_CLIENT_SECRET=
+    ```
 * Create a virtualenv
     ```bash
     python -m venv .venv
